@@ -1,2 +1,3 @@
 1. This is the first file in the repository "SecondRepository" & it was created by "Developer2".
 2. This line is update by "Developer1".
+3. This line is updated while in child branch: "MyFirstBranch".
